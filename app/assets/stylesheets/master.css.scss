@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
 .clear {
   clear:both;
 }
@@ -36,6 +38,8 @@
   color:black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
 }
 
 header {
@@ -45,3 +49,12 @@ header {
 hr {
   clear:both;
 }
+
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+  font-family: 'Opern Sans Condensed' sans-serif;
+}
+
